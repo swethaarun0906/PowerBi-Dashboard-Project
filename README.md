@@ -29,6 +29,7 @@ Readmission Rate	 % of patients readmitted after discharge	                     
 •	Bed occupancy is calculated as the average across the selected date range.
 
 # Design Choices
+Data: <a href "https://github.com/swethaarun0906/PowerBi-Dashboard-Project/blob/main/hospital%20data%20analysis.csv"</a>
 •	Dark Theme: Enhances readability for hospital control room displays.
 •	Tree Maps and Donuts: Provide intuitive overviews of demographic and financial distributions.
 •	Gauges: Quick-glance KPIs for decision-makers on live dashboards.
