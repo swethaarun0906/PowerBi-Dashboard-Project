@@ -11,3 +11,26 @@ Sum of Cost by Length_of_Stay	Line Chart	Correlates treatment cost with length o
 Bed Occupancy	Gauge	Indicates total bed occupancy rate
 Average Treatment Cost	Gauge	Displays the average cost per patient
 Readmission Rate	Gauge	Reflects patient readmission percentage
+
+# Filters/Slicers Used
+•	Procedure / Condition (multi-select hierarchy)
+•	Condition (e.g., Cancer, Heart Attack, Diabetes, Stroke)
+These filters allow users to drill down by treatment type or medical condition to analyze specific patient groups.
+
+# KPIs Calculated
+KPI	Description	             Approx. Value
+Bed Occupancy	 Number of beds occupied / total beds	                    12.35
+Average Treatment Cost	 Mean cost per patient across all treatments	                    8.37K
+Readmission Rate	 % of patients readmitted after discharge	                     0.27
+
+# Assumptions
+•	Cost values are aggregated based on patient condition and duration of stay.
+•	Readmission is defined as a patient returning within 30 days of discharge.
+•	Bed occupancy is calculated as the average across the selected date range.
+
+# Design Choices
+•	Dark Theme: Enhances readability for hospital control room displays.
+•	Tree Maps and Donuts: Provide intuitive overviews of demographic and financial distributions.
+•	Gauges: Quick-glance KPIs for decision-makers on live dashboards.
+		
+
