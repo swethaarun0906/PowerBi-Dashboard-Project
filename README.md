@@ -3,7 +3,7 @@ This Power BI dashboard provides visual insights into hospital records, focusing
 
  
 # Key Metrics & Visuals
-         Visual Title	Visual Type	Purpose
+         
 Count of Patient_ID by Gender	Bar Chart	Displays gender distribution of patients
 Count of Patient_ID by Age	Tree Map	Shows age group segmentation of patients
 Sum of Cost by Condition	Donut Chart	Compares treatment costs for different conditions
