@@ -1,6 +1,8 @@
 # PowerBi-Dashboard-Project
 This Power BI dashboard provides visual insights into hospital records, focusing on patient demographics, medical conditions, treatment costs, bed usage, and readmission rates. It enables hospital staff and administrators to monitor key performance indicators (KPIs) and improve healthcare service delivery
- Key Metrics & Visuals
+
+ 
+# Key Metrics & Visuals
          Visual Title	Visual Type	Purpose
 Count of Patient_ID by Gender	Bar Chart	Displays gender distribution of patients
 Count of Patient_ID by Age	Tree Map	Shows age group segmentation of patients
