@@ -30,6 +30,7 @@ Readmission Rate	 % of patients readmitted after discharge	                     
 
 # Design Choices
 Data: <a href "https://github.com/swethaarun0906/PowerBi-Dashboard-Project/blob/main/hospital%20data%20analysis.csv"</a>
+Dashboard: https://github.com/swethaarun0906/PowerBi-Dashboard-Project/blob/main/Hospital%20record%20project.pbix
 •	Dark Theme: Enhances readability for hospital control room displays.
 •	Tree Maps and Donuts: Provide intuitive overviews of demographic and financial distributions.
 •	Gauges: Quick-glance KPIs for decision-makers on live dashboards.
